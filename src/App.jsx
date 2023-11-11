@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 
 const images = [
-  { src: './src/assets/pic1.jpg', alt: 'Closeup of a human eye' },
-  { src: './src/assets/pic2.jpg', alt: 'Rock that looks like a wave' },
-  { src: './src/assets/pic3.jpg', alt: 'Purple and white pansies' },
-  { src: './src/assets/pic4.jpg', alt: "Section of wall from a pharoah's tomb" },
-  { src: './src/assets/pic5.jpg', alt: 'Large moth on a leaf' },
+  { src: './src/public/images/pic1.jpg', alt: 'Closeup of a human eye' },
+  { src: './src/public/images/pic2.jpg', alt: 'Rock that looks like a wave' },
+  { src: './src/public/images/pic3.jpg', alt: 'Purple and white pansies' },
+  { src: './src/public/images/pic4.jpg', alt: "Section of wall from a pharoah's tomb" },
+  { src: './src/public/images/pic5.jpg', alt: 'Large moth on a leaf' },
 ];
 
 export default function App() {
